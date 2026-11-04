@@ -6,7 +6,7 @@
 */
 #include <stdio.h>
 #include <string.h>
-
+#define NEW 30 
 #define MAX 50
 
 int main()
